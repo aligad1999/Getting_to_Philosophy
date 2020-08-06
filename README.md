@@ -12,3 +12,6 @@ I used https://en.wikipedia.org/wiki/Special:Random to check this hypothesis.
 
 
 For more information about it visit: https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
+
+# Getting_to_Philosophy
+<a href="https://ibb.co/25HNXSk"><img src="https://i.ibb.co/0QvtPKG/Output-Snapshot.png" alt="Output-Snapshot" border="0"></a>
